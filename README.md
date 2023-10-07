@@ -1,4 +1,4 @@
-![logo](https://github.com/Palak0506/Palak0506/blob/main/6521ae17498ba80013021b42.jpg)
+
 <h1 align="center">Hi 👋, I'm PALAK SRIVASTAVA</h1>
 <h3 align="center">A passionate full stack developer from India</h3>
 <img align="right" alt="coding" width="400" src="https://media.tenor.com/S59bPkT0pqcAAAAC/programming.gif">
