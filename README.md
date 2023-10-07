@@ -1,7 +1,8 @@
 <h1 align="center">Hi 👋, I'm PALAK SRIVASTAVA</h1>
 <h3 align="center">A passionate full stack developer from India</h3>
 <img align="right" alt="coding" width="400" src="https://media.tenor.com/S59bPkT0pqcAAAAC/programming.gif">
-
+- 📗  An information science graduate.
+- 🎑 Possess an eager mind to lean new skills and technologies
 - 📫 How to reach me **1rn20is101palaksrivastava@gmail.com**
 
 - 📄 Know about my experiences [https://drive.google.com/file/d/1zvlFwrTFCZNNwysu4-fMKBp0pyRlC-hC/view?usp=drivesdk](https://drive.google.com/file/d/1zvlFwrTFCZNNwysu4-fMKBp0pyRlC-hC/view?usp=drivesdk)
